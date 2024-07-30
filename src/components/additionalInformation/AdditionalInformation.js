@@ -12,7 +12,7 @@ const AdditionalInformation = () => {
         </li>
         <li>
           Tecnologías usadas en TUP: PSeint, C Language, Python, C#, React,
-          Javascript (cursos trimestrales)
+          Javascript (cursos cuatrimestrales)
         </li>
         <li>
           Cursos completados sobre Programación Orientada a Objetos en Udemy en

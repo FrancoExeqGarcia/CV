@@ -1,11 +1,11 @@
 /* src/components/Links.css */
 .links {
-    width: 100%;
-    padding: 20px;
-    background: #000000;
-    color: white;
-    margin-bottom: 20px;
-    text-align: left;
+  width: 100%;
+  padding: 20px;
+  background: #000000;
+  color: white;
+  margin-bottom: 20px;
+  text-align: left;
   }
   
   .links h3 {
@@ -19,5 +19,12 @@
   .links a {
     color: white;
     text-decoration: none;
+    padding: 5px;
+    border-radius: 4px;
+    display: inline-block; 
+  }
+  .links a:hover {
+    background-color: rgb(250, 241, 241);
+    color: black; 
   }
   
